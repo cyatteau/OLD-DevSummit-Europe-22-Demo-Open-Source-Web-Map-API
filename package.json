@@ -1,0 +1,16 @@
+{
+  "name": "demo2_code",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Courtney Yatteau",
+  "license": "MIT",
+  "dependencies": {
+    "esri-leaflet-vector": "^4.0.0"
+  }
+}
